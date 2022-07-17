@@ -1,6 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
-    junpeikusai
+    <NuxtPage />
   </div>
 </template>
